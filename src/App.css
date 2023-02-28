@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.notification-box-container {
+  border-left: 6px solid green;
+  background: #d9ffd9;
+  padding-left: 11px;
+}
